@@ -2,7 +2,8 @@
 
 This is implementation of a Mintlify-style landing page built using **HTML and CSS**.  
 
-<img width="1919" height="993" alt="Screenshot 2026-02-03 000744" src="https://github.com/user-attachments/assets/57cef390-4330-49ce-8125-795b8f6fffad" />
+<img width="1919" height="987" alt="Screenshot 2026-02-03 002236" src="https://github.com/user-attachments/assets/d73ab53e-46ae-4ce8-bd06-63c576dfe0ed" />
+
 
 
 ## Page Structure & Sections
