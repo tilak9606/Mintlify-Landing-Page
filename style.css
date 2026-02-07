@@ -391,7 +391,7 @@ nav {
   display: block;
   background: transparent;
   border-radius: 20px;
-  /* position: absolute; */
+  position: absolute;
 }
 .customer-card img {
   width: 100%;
