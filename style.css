@@ -296,7 +296,8 @@ nav {
 
 
 .img-with-text {
-  background: url("./images/anthropic.svg") center / cover no-repeat;
+  background-image: url("./images/anthropic.svg");
+  background-size: cover;
   position: relative;
    justify-self: center;
   width: 67%;
